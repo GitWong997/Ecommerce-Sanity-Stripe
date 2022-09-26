@@ -62,8 +62,11 @@ Here's why:
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
-
-
+<div align="center">
+  <img src="image/Main-page.png" alt="" width="Auto" height="Auto">
+  <img src="image/Shop-Page.png" alt="" width="Auto" height="Auto">
+  <img src="image/Cart-Page.png" alt="" width="Auto" height="Auto">
+</div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
