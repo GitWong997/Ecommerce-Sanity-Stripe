@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/GitWong997/Ecommerce-Sanity-Stripe">
-    <img src="image/logo.png" alt="Logo" width="280" height="280" border-radius: 8px>
+    <img src="image/logo.png" alt="Logo" width="250" height="250">
   </a>
 
   <h3 align="center">SamWong-Online Headphone Ecommerce Project with Sanity and Stripe</h3>
@@ -36,21 +36,25 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+<div>
+  <img src="image/Banner-Picture.png" alt="" width="Auto" height="Auto">
+</div>
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+SamWong Headphone Online Store is a Full-stack Ecommerce project built based on Sanity with Payment functionality by using Stripe. 
+I would like to express my deepest appreciation to JS Mastery with their fantasitic video and detailed explination. This project is based on their tutorial. <a href="https://www.youtube.com/watch?v=4mOkFXyxfsU&t=567s">Click here to check</a> Also many thanks to the great README template from <a href="https://github.com/othneildrew/Best-README-Template">kidonng</a> :wink:
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
-
-
+<div>
+This Ecommerce system has:
+<ul>
+  <li>Modern desgin and animations</li>
+  <li>Responsive action to users' various input</li>
+  <li>The ability to add and edit products on the go using a CMS</li>
+  <li>The complete integration with Stripe so that you can cover REAL payments</li>
+</ul
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+</div>
 
-
-
-### Built With
+## Built With
 
 * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
@@ -61,10 +65,14 @@ Here's why:
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 <div align="center">
+  <h1>Main Page with all amazing products listed:</h1>
   <img src="image/Main-page.png" alt="" width="Auto" height="Auto">
+  <hr class="solid">
+  <h1>The product page with all according details and comments from users:</h1>
   <img src="image/Shop-Page.png" alt="" width="Auto" height="Auto">
+  <hr class="solid">
+  <h1>Users can add and remove items freely from the cart:</h1>
   <img src="image/Cart-Page.png" alt="" width="Auto" height="Auto">
 </div>
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
